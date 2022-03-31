@@ -1,5 +1,3 @@
-package test;
-
 import creationalDesignPattern.Singleton.ConnectionPool;
 import org.junit.Test;
 

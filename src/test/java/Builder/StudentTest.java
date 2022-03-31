@@ -1,4 +1,4 @@
-package test.Builder;
+package Builder;
 
 import creationalDesignPattern.Builder.Student;
 import org.junit.Test;

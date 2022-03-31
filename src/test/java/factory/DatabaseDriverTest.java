@@ -1,4 +1,4 @@
-package test.factory;
+package factory;
 
 import creationalDesignPattern.factory.DatabaseDriver;
 import creationalDesignPattern.factory.DatabaseDriverFactory;
